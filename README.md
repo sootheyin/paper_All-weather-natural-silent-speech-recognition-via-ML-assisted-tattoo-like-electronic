@@ -21,7 +21,7 @@ Dependencies:
 Example usage:
  - First, you should place all .mat files in a directory that is included in the Matlab path, or update the path to include them.
  - main.m is the main wrapper from which all results in the paper are generated.
- - The dimension of the input data is 4(channels × Sampling point × Class × Trials).
+ - The dimension of the input data is 4(Channels × Sampling point × Class × Trials).
  - The whole program may take several minutes to run, depending on the specs of your computer. 
 
 Addition:
